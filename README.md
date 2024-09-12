@@ -1,5 +1,5 @@
 # A Multi-Level Framework for Anomalous Sound Detection via Feature Similarity and Difference
-c
+<img src="./overall.png">
 
 ## Introduction
 
